@@ -29,6 +29,8 @@ content:
     tag: '*'
   - name: Deep Learning
     tag: Deep Learning
+  - name: Searching is Learning
+    tag: Searching is Learning
   - name: Tech Talks
     tag: Tech Talks
 
