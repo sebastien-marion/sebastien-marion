@@ -1,8 +1,9 @@
 ---
 title: Filling the Research Skills Gap
-subtitle: Guidance and advice for how students can hone their research skills in
-  an era when those skills are being lost.
+subtitle: ""
 date: 2017-09-03T19:18:00.000Z
+summary: Guidance and advice for how students can hone their research skills in
+  an era when those skills are being lost.
 draft: false
 featured: false
 tags:
