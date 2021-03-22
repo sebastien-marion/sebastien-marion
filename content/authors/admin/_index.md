@@ -42,8 +42,9 @@ superuser: true
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Who am I? What am I doing? I am a higher education librarian specializing in libraries, knowledge management and contemporary literacies. I am an independent thinker, online educator and expert learner.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In addition to teaching research and information literacy methods, I serve on numerous strategic committees, and am a leader in planning initiatives designed to guide the university library of the future.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+You can follow me on [Twitter](https://www.twitter.com/sebastienmarion). Or subscribe to my [mailing list](https://tinyletter.com/sebastienmarion).
+
