@@ -32,7 +32,7 @@ experience:
         Responsibilities include:
         
         * Communications
-		* Instruction
+        * Instruction
         * Personnel Evaluation
         * Virtual Services
         
