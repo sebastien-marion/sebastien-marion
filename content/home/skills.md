@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 95%
-  icon: puzzle
+  icon: puzzle-piece
   icon_pack: fas
   name: Creativity
 - description: 90%
@@ -25,7 +25,7 @@ feature:
   icon_pack: fas
   name: Experience
 - description: 90%
-  icon: settings
+  icon: code
   icon_pack: fas
   name: Technology
 
