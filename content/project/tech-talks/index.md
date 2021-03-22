@@ -1,7 +1,6 @@
 ---
 title: Tech Talks
 subtitle: ""
-- Deep Learning
 date: 2014-02-16T20:43:00.000Z
 summary: 20 slides x 15 seconds per slide = 5 minutes of sharing. What would you say?
 draft: false
