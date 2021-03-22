@@ -32,4 +32,4 @@ The following are a few tips to be a successful researcher:
 * Use social media. Find other people you can learn from, and create a clear and consistent signal so people can learn from you. * Most importantly, participate in conversations and develop your social capital.
 * Curate content and harvest information that supports your curiosities and passions. Whether it’s persistent searches, intelligence dashboards, Twitter lists, RSS feeds, or social bookmarking, the act of collecting information prioritizes your attention, and will help you gain confidence.
 
-According to Nature.com, it’s dangerous to assume that the presence of technology in our lives has improved our research skills. If we want to truly engage the future, learning sophisticated strategies for dealing with information is a good place to start.
+It’s dangerous to assume that the presence of technology in our lives has improved our research skills. If we want to truly engage the future, learning sophisticated strategies for dealing with information is a good place to start.
