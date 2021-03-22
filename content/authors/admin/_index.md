@@ -1,6 +1,6 @@
 ---
 title: Sebastien Marion
-role: Professor of Artificial Intelligence
+role: Senior Librarian, New York Institute of Technology
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
