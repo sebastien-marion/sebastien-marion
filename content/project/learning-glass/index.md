@@ -3,6 +3,8 @@ title: Learning Glass
 date: 2021-03-22T20:26:33.278Z
 draft: false
 featured: false
+tags:
+  - Learning Glass
 external_link: https://www.youtube.com/channel/UCalRcNZ0C0lE1TMmqlyO-fw/videos
 image:
   filename: ""
