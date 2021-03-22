@@ -4,7 +4,7 @@ abstract: The library is the center of higher education’s transformation from 
   collection of teaching places to a community of learning spaces. Students
   should be makers most of the day, not just consumers. This presentation is
   about reframing the cultural expectations of the library as a place.
-location: New York Institute of Technology
+location: Auditorium on Broadway
 date: 2017-06-03T14:00:00.000Z
 date_end: 2017-06-03T20:00:00.000Z
 all_day: false
