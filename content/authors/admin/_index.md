@@ -1,8 +1,8 @@
 ---
 title: Sebastien Marion
-role: Senior Librarian, New York Institute of Technology
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: Senior Librarian
+bio: My research interests include academic libraries, higher education,
+  information literacy, and knowledge management.
 interests:
   - Academic Libraries
   - Higher Education
@@ -25,8 +25,8 @@ social:
     icon_pack: fab
     link: https://www.youtube.com/channel/UCalRcNZ0C0lE1TMmqlyO-fw/videos
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: New York Institute of Technology
+    url: https://www.nyit.edu/
 education:
   courses:
     - course: PhD in Artificial Intelligence
