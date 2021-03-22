@@ -30,15 +30,15 @@ organizations:
     url: https://www.nyit.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Master of Business Administration
+      institution: New York Institute of Technology
+      year: 2007
+    - course: Master of Information Science
+      institution: Western University, Canada
+      year: 2000
+    - course: "Honors Language and Literature "
+      institution: Western University, Canada
+      year: 1998
 email: ""
 superuser: true
 highlight_name: false
