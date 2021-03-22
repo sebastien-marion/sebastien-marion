@@ -27,8 +27,14 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Communities of Practice
+    tag: Communities of Practice
+  - name: Learn Tracker
+    tag: Learn Tracker
+  - name: Learning Glass
+    tag: Learning Glass
+  - name: Library 2050
+    tag: Library 2050
   - name: Searching is Learning
     tag: Searching is Learning
   - name: Tech Talks
