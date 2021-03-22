@@ -31,9 +31,10 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Communications
+		* Instruction
+        * Personnel Evaluation
+        * Virtual Services
         
   - title: Librarian II, Associate Professor
     company: New York Institute of Technology
@@ -41,12 +42,12 @@ experience:
     location: New York
     date_start: '2016-01-01'
     date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Webmaster, Instruction.
   - title: Librarian I, Instructor
     company: New York Institute of Technology
     company_url: 'http://nyit.edu'
     location: New York
     date_start: '2000-05-01'
     date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Serials, Instruction.
 ---
