@@ -35,7 +35,7 @@ coordinates:
 directions: 2nd floor
 office_hours:
   - 'Monday to Friday 10:00 to 16:00'
-appointment_url: 'https://calendly.com'
+appointment_url: 'http://libcal.nyit.edu/appointment/1767'
 contact_links:
   - icon: twitter
     icon_pack: fab
