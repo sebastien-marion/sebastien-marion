@@ -6,7 +6,8 @@ summary: 20 slides x 15 seconds per slide = 5 minutes of sharing. What would you
 draft: false
 featured: false
 tags:
-  - tech-talks
+  - Tech Talks
+  - Deep Learning
 external_link: https://nyit.edu/
 image:
   filename: ""
