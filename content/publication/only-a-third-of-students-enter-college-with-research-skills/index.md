@@ -15,7 +15,7 @@ abstract: Research is an integral part of the college experience. Regardless of
 draft: false
 featured: true
 image:
-  filename: null
+  filename: student-with-books.jpg
   focal_point: Smart
   preview_only: false
 date: 2021-03-22T20:38:15.486Z
