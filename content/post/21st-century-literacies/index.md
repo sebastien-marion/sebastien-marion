@@ -7,6 +7,8 @@ summary: Our students must acquire the skills and literacies to support a
   information literate.
 draft: false
 featured: false
+tags:
+  - literacy
 image:
   filename: featured.jpg
   focal_point: Smart
