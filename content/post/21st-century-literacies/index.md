@@ -1,6 +1,6 @@
 ---
 title: 21st Century Literacies
-date: 2017-09-03T19:14:00.000Z
+date: 2017-09-04T00:07:00.000Z
 summary: Our students must acquire the skills and literacies to support a
   lifetime. Knowing how to manage personal knowledge. Knowing how to participate
   in learning networks. And, yes, knowing how to learn, and what it means to be
