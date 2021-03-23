@@ -48,5 +48,5 @@ Who am I? What am I doing? I am a higher education librarian specializing in lib
 
 In addition to teaching research and information literacy methods, I serve on numerous strategic committees, and am a leader in planning initiatives designed to guide the university library of the future.
 
-You can follow me on [Twitter](https://www.twitter.com/sebastienmarion). Or subscribe to my [mailing list](https://tinyletter.com/sebastienmarion).
+You can follow me on [Twitter](https://www.twitter.com/sebastienmarion). Or subscribe to my [mailing list](https://news.searchingislearning.com/).
 
