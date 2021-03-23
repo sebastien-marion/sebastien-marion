@@ -8,7 +8,7 @@ summary: Our students must acquire the skills and literacies to support a
 draft: false
 featured: false
 image:
-  filename: ""
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
