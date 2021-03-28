@@ -42,12 +42,19 @@ experience:
     location: New York
     date_start: '2008-01-01'
     date_end: '2016-12-31'
-    description: Webmaster, Instruction.
+        
+        * Webmaster
+        * Instruction
+        
   - title: Librarian I, Instructor
     company: New York Institute of Technology
     company_url: 'http://nyit.edu'
     location: New York
     date_start: '2000-06-01'
     date_end: '2008-12-31'
-    description: Serials, Reference.
+        Responsibilities include:
+        
+        * Serials
+        * Reference
+        
 ---
