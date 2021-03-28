@@ -42,6 +42,8 @@ experience:
     location: New York
     date_start: '2008-01-01'
     date_end: '2016-12-31'
+    description: |2-
+        Responsibilities include:
         
         * Webmaster
         * Instruction
@@ -52,6 +54,7 @@ experience:
     location: New York
     date_start: '2000-06-01'
     date_end: '2008-12-31'
+    description: |2-
         Responsibilities include:
         
         * Serials
