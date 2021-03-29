@@ -15,13 +15,13 @@ draft: false
 featured: true
 
 #   url: ""
-url_pdf: https://sebastienmarion.medium.com/the-libraries-that-we-return-to-17fa14dd1fa3
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: https://sebastienmarion.medium.com/the-libraries-that-we-return-to-17fa14dd1fa3
 url_video: ''
 
 image:
