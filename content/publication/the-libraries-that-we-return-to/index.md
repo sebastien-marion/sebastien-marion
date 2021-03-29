@@ -3,7 +3,7 @@ title: The Libraries that We Return to
 publication_types:
   - "2"
 authors:
-  - S. Marion
+  - Sebastien Marion
 publication: Medium
 abstract: Accreditation agencies support for academic libraries is thin at best.
   Documents like the Association of College & Research Libraries (ACRL)
@@ -14,7 +14,7 @@ abstract: Accreditation agencies support for academic libraries is thin at best.
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2021-03-29T21:22:54.719Z
