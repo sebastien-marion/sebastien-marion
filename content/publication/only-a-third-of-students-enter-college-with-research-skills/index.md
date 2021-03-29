@@ -13,7 +13,7 @@ abstract: Research is an integral part of the college experience. Regardless of
   Terri Williams, I offer advice to students who are transitioning from high
   school to college.
 draft: false
-featured: true
+featured: false
 image:
   filename: student-with-books.jpg
   focal_point: Smart
