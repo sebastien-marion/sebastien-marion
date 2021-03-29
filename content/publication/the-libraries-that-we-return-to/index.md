@@ -18,5 +18,4 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2021-03-29T21:22:54.719Z
-url:  https://sebastienmarion.medium.com/the-libraries-that-we-return-to-17fa14dd1fa3
 ---
