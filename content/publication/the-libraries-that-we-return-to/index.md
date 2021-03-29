@@ -13,6 +13,17 @@ abstract: Accreditation agencies support for academic libraries is thin at best.
   vision of where they want to go.
 draft: false
 featured: true
+
+#   url: ""
+url_pdf: https://sebastienmarion.medium.com/the-libraries-that-we-return-to-17fa14dd1fa3
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
 image:
   filename: featured.jpg
   focal_point: Smart
