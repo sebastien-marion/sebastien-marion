@@ -15,6 +15,6 @@ weight = 65
 
 +++
 
-- A [newsletter](hhttps://news.searchingislearning.com/) about the intersection of libraries, technology and learning.
+- A monthly [newsletter](https://news.searchingislearning.com/) that gives you brief recommendations of the best search strategies, tools and resources for modern independent learners..
 - Easily unsubscribable.
 - Sent just a few times a year.
