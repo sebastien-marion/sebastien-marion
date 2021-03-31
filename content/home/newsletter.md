@@ -15,6 +15,6 @@ weight = 100
 
 +++
 
-- A monthly [newsletter](https://www.getrevue.co/profile/searchingislearning) that gives you brief recommendations of the best search strategies, tools and resources for modern independent learners..
+- A monthly [newsletter](https://www.getrevue.co/profile/searchuniversity) that gives you brief recommendations of the best search strategies, tools and resources for modern independent learners..
 - Easily unsubscribable.
 - Sent just a few times a year.
