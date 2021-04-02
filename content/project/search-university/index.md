@@ -1,5 +1,5 @@
 ---
-title: Searching is Learning
+title: Search University
 date: 2021-03-22T20:18:55.318Z
 draft: false
 featured: false
