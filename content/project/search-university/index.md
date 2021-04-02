@@ -11,6 +11,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Searching is Learning is a [new book](https://www.getrevue.co/profile/searchuniversity) being written about contemporary information literacies.
+Search University is a project about search, search skills, teaching search, learning how to search, learning how to use Google effectively, and learning how to do research, from pre-university to working professionals, and everything in between.
 
-From expert Web index searches, to *personal knowledge management*, to filtering the Web using RSS, to developing *personal learning networks*, to mapping *personal learning environments*, students learn how to take control of their own research and lifetime learning.
+It's based on a monthly [newsletter](https://www.getrevue.co/profile/searchuniversity) that gives you brief recommendations on the best search strategies, tools and resources for learners. My goal is to turn this newsletter into smoething more sustantial like a book teaching students learn how to take control of their own research and lifetime learning.
