@@ -35,8 +35,8 @@ content:
     tag: Learning Glass
   - name: Library 2050
     tag: Library 2050
-  - name: Searching is Learning
-    tag: Searching is Learning
+  - name: Searching University
+    tag: Searching University
   - name: Tech Talks
     tag: Tech Talks
 
