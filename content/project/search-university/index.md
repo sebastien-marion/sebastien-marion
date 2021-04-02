@@ -4,7 +4,7 @@ date: 2021-03-22T20:18:55.318Z
 draft: false
 featured: false
 tags:
-  - Searching University
+  - Search University
 external_link: https://www.getrevue.co/profile/searchuniversity
 image:
   filename: ""
