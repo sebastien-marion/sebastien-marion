@@ -5,7 +5,7 @@ draft: false
 featured: false
 tags:
   - Search University
-external_link: https://www.getrevue.co/profile/searchuniversity
+external_link: 
 image:
   filename: ""
   focal_point: Smart
