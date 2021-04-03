@@ -19,9 +19,9 @@ social:
   - icon: newspaper
     icon_pack: fas
     link: https://www.getrevue.co/profile/searchuniversity
-  - icon: itunes
+  - icon: tools
     icon_pack: fab
-    link: https://huffduffer.com/sebastienmarion
+    link: https://tools.sebastienmarion.com
   - icon: youtube
     icon_pack: fab
     link: https://www.youtube.com/channel/UCalRcNZ0C0lE1TMmqlyO-fw/videos
