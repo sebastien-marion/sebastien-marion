@@ -20,7 +20,7 @@ social:
     icon_pack: fas
     link: https://www.getrevue.co/profile/searchuniversity
   - icon: tools
-    icon_pack: fab
+    icon_pack: fas
     link: https://tools.sebastienmarion.com
   - icon: youtube
     icon_pack: fab
