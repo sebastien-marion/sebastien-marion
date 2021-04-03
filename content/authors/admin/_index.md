@@ -17,7 +17,7 @@ social:
     icon_pack: fab
     link: https://twitter.com/SebastienMarion
   - icon: readme
-    icon_pack: fas
+    icon_pack: fab
     link: https://www.getrevue.co/profile/searchuniversity
   - icon: itunes
     icon_pack: fab
