@@ -5,7 +5,7 @@ draft: false
 featured: false
 tags:
   - Learning Glass
-external_link: https://www.youtube.com/channel/UCalRcNZ0C0lE1TMmqlyO-fw/videos
+external_link:
 image:
   filename: ""
   focal_point: Smart

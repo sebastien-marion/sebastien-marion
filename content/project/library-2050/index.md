@@ -5,7 +5,7 @@ draft: false
 featured: false
 tags:
   - Library 2050
-external_link: http://sebastienmarion
+external_link:
 image:
   filename: ""
   focal_point: Smart

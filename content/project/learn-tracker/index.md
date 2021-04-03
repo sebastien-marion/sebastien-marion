@@ -5,7 +5,7 @@ draft: false
 featured: false
 tags:
   - Learn Tracker
-external_link: http://tanguay.info/learntracker/page/home
+external_link:
 image:
   filename: ""
   focal_point: Smart

@@ -8,7 +8,7 @@ featured: false
 tags:
   - Tech Talks
   - Deep Learning
-external_link: https://nyit.edu/
+external_link:
 image:
   filename: ""
   focal_point: Smart
