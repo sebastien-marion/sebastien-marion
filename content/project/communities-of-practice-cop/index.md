@@ -5,7 +5,7 @@ draft: false
 featured: false
 tags:
   - Communities of Practice
-external_link: https://docs.google.com/document/d/1SKxtIb468B_ZVnZWmt9xy01LBXiZkBmHooUoCmnmR2k/edit?usp=sharing
+external_link: 
 image:
   filename: ""
   focal_point: Smart
