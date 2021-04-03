@@ -16,9 +16,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/SebastienMarion
-  - icon: bookmark
+  - icon: news
     icon_pack: fas
-    link: https://pinboard.in/u:sebastienmarion
+    link: https://www.getrevue.co/profile/searchuniversity
   - icon: itunes
     icon_pack: fab
     link: https://huffduffer.com/sebastienmarion
