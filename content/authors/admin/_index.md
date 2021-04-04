@@ -14,7 +14,7 @@ social:
     icon_pack: fas
     link: /#contact
   - icon: twitter
-    icon_pack: fab
+    icon_pack: fas
     link: https://twitter.com/SebastienMarion
   - icon: file-alt
     icon_pack: fas
