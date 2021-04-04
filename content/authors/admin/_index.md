@@ -13,8 +13,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fas
+  - icon: twitter-square
+    icon_pack: fab
     link: https://twitter.com/SebastienMarion
   - icon: file-alt
     icon_pack: fas
