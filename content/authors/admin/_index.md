@@ -7,7 +7,7 @@ bio: My research interests include academic libraries, higher education, search
 interests:
   - Academic Libraries
   - Higher Education
-  - Information Literacy
+  - Search Literacy
   - Knowledge Management
 social:
   - icon: envelope
