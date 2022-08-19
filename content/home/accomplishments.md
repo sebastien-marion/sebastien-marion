@@ -31,7 +31,7 @@ item:
   organization_url: https://www.coursera.org
   title: Newsletters for Journalists
   url: ""
-
+item:
 - certificate_url: https://www.knightfoundation.org
   date_end: ""
   date_start: "2021-04-22"
