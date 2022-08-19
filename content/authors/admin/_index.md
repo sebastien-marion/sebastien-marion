@@ -7,8 +7,8 @@ bio: My research interests include academic libraries, higher education, search
 interests:
   - Academic Libraries
   - Higher Education
-  - Search Literacy
   - Knowledge Management
+  - Search Literacy
 social:
   - icon: envelope
     icon_pack: fas
