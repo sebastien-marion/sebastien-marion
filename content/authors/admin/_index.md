@@ -2,8 +2,8 @@
 title: Sebastien Marion
 role: Senior Librarian
 avatar_filename: avatar.jpg
-bio: My research interests include academic libraries, higher education,
-  information literacy, and knowledge management.
+bio: My research interests include academic libraries, higher education, search
+  literacy, and knowledge management.
 interests:
   - Academic Libraries
   - Higher Education
