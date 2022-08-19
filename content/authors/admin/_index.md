@@ -8,7 +8,7 @@ interests:
   - Academic Libraries
   - Higher Education
   - Knowledge Management
-  - Search Literacy
+  - Search Literacies
 social:
   - icon: envelope
     icon_pack: fas
