@@ -25,12 +25,20 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.knightfoundation.org
   date_end: ""
-  date_start: "2021-03-22"
+  date_start: "2021-04-22"
   description: ""
   organization: Knight Foundation
   organization_url: https://www.coursera.org
   title: Newsletters for Journalists
   url: ""
 
+- certificate_url: https://www.knightfoundation.org
+  date_end: ""
+  date_start: "2021-04-22"
+  description: ""
+  organization: Knight Foundation
+  organization_url: https://www.coursera.org
+  title: Newsletters for Journalists
+  url: ""
 
 ---
