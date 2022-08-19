@@ -2,8 +2,8 @@
 title: Sebastien Marion
 role: Senior Librarian
 avatar_filename: avatar.jpg
-bio: My research interests include academic libraries, higher education,
-  searcher literacy, and knowledge management.
+bio: My research interests include academic libraries, higher education, search
+  literacy, and knowledge management.
 interests:
   - Academic Libraries
   - Higher Education
@@ -43,10 +43,8 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-
-Who am I? What am I doing? I am a higher education librarian specializing in libraries, knowledge management and contemporary literacies. I am an independent thinker, online educator and expert learner.
+Who am I? What am I doing? I am a higher education librarian specializing in libraries, knowledge management and search literacy. I am an independent thinker, online educator and expert learner.
 
 In addition to teaching research and information literacy methods, I serve on numerous strategic committees, and am a leader in planning initiatives designed to guide the university library of the future.
 
 You can follow me on [Twitter](https://www.twitter.com/sebastienmarion). Or subscribe to my [mailing list](https://www.getrevue.co/profile/searchuniversity).
-
